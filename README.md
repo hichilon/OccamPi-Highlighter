@@ -2,6 +2,8 @@ OccamPi-Highlighter
 ===================
 
 ###This is a code highlighter for Occam-pi in notepad++
+**How to use .xml file**
+open notepad++ > language > Define your language > Import > 
 
 occam-pi is a concurrent programming language using the process-oriented programming model, which aims to make it straightforward to write correct, expressive concurrent programs. occam-pi is supported on a variety of platforms by a collection of open source tools, and is used and maintained by a community of developers around the world.
 
